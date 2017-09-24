@@ -1,8 +1,11 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Dead.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/EnemyGenerator.cs">
     <Files>
-      <File FileName="Assets/Scripts/Dead.cs" Line="9" Column="41" />
+      <File FileName="../../../../../Tappsi/tappsi-game/Assets/Scripts/EnemyController.cs" Line="27" Column="26" />
+      <File FileName="Assets/Scripts/Chaser.cs" Line="25" Column="4" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="5" Column="30" />
+      <File FileName="Assets/Scripts/EnemyGenerator.cs" Line="31" Column="35" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
